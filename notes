@@ -1,0 +1,10 @@
+create a venv this is a virtual enviroment 
+python3 -m venv venv
+ 
+activate venv 
+venv\Scripts\activate
+
+mac 
+source venv/bin/activate 
+
+deactivate
